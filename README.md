@@ -1,4 +1,9 @@
 # hello-world
-My first repository on git hub
+_My **first** repository on git hub_
 
-i love yoga, pugs and hikes 
+i love :umbrella: yoga :squirrel: pugs :jack_o_lantern: hikes
+
+to do:
+*laundry
+*~~run~~
+*stream
